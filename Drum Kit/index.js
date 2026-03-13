@@ -50,6 +50,7 @@ function makeSound(key){
             
         }
        
+    console.log("this is notice");
     
 
 }
